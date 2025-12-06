@@ -3,6 +3,11 @@ import { NextResponse } from 'next/server';
 import db from '@/lib/db';
 
 export async function GET() {
+
+  console.log("DB_HOST:", process.env.DB_HOST);
+  console.log("DB_USER:", process.env.DB_USER);
+  console.log("DB_NAME:", process.env.DB_NAME);
+
   try {
     const [rows] = await db.query('SELECT 1 + 1 AS result');
     return NextResponse.json({ success: true, result: rows });
