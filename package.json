@@ -8,7 +8,6 @@
     "start": "next start",
     "export": "next export",
     "lint": "next lint",
-    "postbuild": "ts-node generate-sitemap.ts"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
