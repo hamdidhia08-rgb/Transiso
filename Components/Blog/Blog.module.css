@@ -1,0 +1,149 @@
+@font-face {
+  font-family: 'Noto Kufi Arabic';
+  src: url('/Font/NotoKufiArabic-VariableFont_wght.ttf') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+.paper{
+    min-height: 70vh;
+    height: auto;
+    background-color: #f0f2f5;
+    padding-top: 30px;
+}
+.card {
+    max-width: 400px;
+    height: 450px;
+    width: 100%;
+    border-radius: 3px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+                0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    background-color: white;
+    font-family: Inter, sans-serif;
+    position: relative;
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: all 0.3s ease-in-out;
+  }
+
+  
+
+  .card:hover {
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+                0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  }
+  
+  .imageContainer {
+    width: 100%;
+    height: 14rem;
+    overflow: hidden;
+  }
+  
+  .imageMedia {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .dateOverlay {
+    position: absolute;
+    top: 11rem; 
+    left: 1rem;
+    display: flex;
+    flex-direction: row; /* s'assurer que c'est bien en ligne */
+    align-items: center;
+    justify-content: start;
+    background-color: #04223E;
+    color: #fff;
+    font-weight: 700;
+    font-size: 1rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+    white-space: nowrap; /* ✅ empêche le retour à la ligne */
+  }
+  
+  .dateNumber,
+  .dateMonth {
+    padding: 0.5rem 0.75rem;
+    white-space: nowrap; /* ✅ empêche le retour à la ligne pour chaque partie */
+    display: inline-block;
+  }
+  
+  
+  .dateNumber {
+    padding: 0.5rem 0.75rem;
+    width: 30%;
+    background-color: #E71E24;
+  }
+  
+  .dateMonth {
+    background-color: #04223E; /* blue-900 */
+    padding: 0.5rem 0.75rem;
+    font-size: 0.85rem;
+    height: 100% !important;
+    
+  }
+  .arabe{
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  .section_title2 {
+    color: #0A2C47 !important;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Cairo','Noto Kufi Arabic', sans-serif !important;
+    font-optical-sizing: auto;
+    font-weight: 'weight';
+    font-style: normal;
+    position: absolute;
+  }
+  .titre{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 80px;
+    top: 0px;
+    position: relative;
+  }
+  .sous_titre{
+    color: #ED1C24 !important;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center !important;
+    font-family: 'Cairo','Noto Kufi Arabic', sans-serif !important;
+    font-optical-sizing: auto;
+    font-weight: 'weight';
+    font-style: normal;
+    bottom: -15px;
+    position: absolute;
+  }
+  .description {
+    display: -webkit-box;
+    -webkit-line-clamp: 2 !important; /* 1 ligne */
+    line-clamp: 2 !important;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 2.5;
+    height: calc(1.5em * 2); /* 1.5em = hauteur d’une ligne */
+  }
+  
+  
+  .truncateDescription {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-clamp: 2;
+  }
+  

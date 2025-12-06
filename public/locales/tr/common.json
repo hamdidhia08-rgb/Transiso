@@ -1,0 +1,676 @@
+{
+    "home": "Ana Sayfa",
+    "about": "Şirket Hakkında",
+    "services": "Hizmetlerimiz",
+    "products2": "Ürün Listesi",
+    "contact": "İletişim",
+    "trackOrder": "bağlantı",
+    "inquiryOnline": "Online Sorgu",
+    "followUs": "Bizi takip edin:",
+    "workingHours": "Pazartesi - Cuma: 10:00 - 17:30",
+    "phoneNumber": "(+90) 5377671027",
+    "istanbulTurkey": "İstanbul, Türkiye",
+    "email": "info@transisologistic.com",
+    "slide2Title": "Dünya Limanları",
+    "slide2Desc": "İstanbul ve Türkiye limanlarından dünyanın çoğu ülkesine konteyner taşımacılığı hizmeti sunuyoruz.",
+    "slide3Title": "Transiso Lojistik",
+    "slide3Desc": "Türk limanları üzerinden dünya çapında güvenilir ve hızlı deniz taşımacılığı sunuyoruz.",
+    "slide4Title": "Türk Havalimanları Üzerinden",
+    "slide4Desc": "Türkiye'den dünyaya hava kargo çözümlerimizle lojistik ihtiyaçlarınızı karşılıyoruz.",
+      "banner2": {
+        "aboutTitle": "Şirket Hakkında",
+        "mainTitle": "Transiso Lojistik: Türkiye ve Dünyada Güvenilir Lojistik Ortağınız",
+        "description": "Arap ülkeleri ve dünyada lojistik sektöründe yıllarca çalışarak Transiso, Türkiye'de hava ve deniz nakliye hizmetleri sunmayı ve müşterileri için güvenilir lojistik destek sağlamayı hedeflemiştir. Eğitimli personelimiz ve dünya genelindeki şubelerimiz, müşteri hizmetleri, bilgi ve gelişimin ana kaynağıdır. Müşterilerimizin güveni, Transiso'yu küresel nakliye ihtiyaçlarını karşılamak için zamanla yarışan bir dünya şirketi haline getirmiştir.",
+        "trackingTitle": "Çevrimiçi Takip",
+        "trackingDesc": "Uzun zamandır bilinen bir gerçektir ki bir okuyucu.",
+        "list": {
+          "item1": "Zamanında teslimat oranının iyileştirilmesi",
+          "item2": "Filo genişletme ve yenileme",
+          "item3": "Gelişmiş teknoloji entegrasyonu"
+        },
+        "buttonText": "Daha Fazla Keşfet"
+       
+    },
+     "titre_hero": "Transeso Lojistiğine Hoş Geldiniz",
+      "banner": {
+        "title": "Potansiyeli Gerçekleştirmek İçin Fırsatlar Yaratıyoruz",
+        "subtitle": "Her adımın işinizi daha iyi bir geleceğe taşıdığına inanıyoruz",
+        "buttonText": "Daha Fazlasını Keşfet"
+      },
+      "card": {
+        "subtitle": "Neden Biz?",
+        "title": "Transiso ile Çalışmanın Avantajları",
+        "description": "Transiso olarak, uzman bir ekip ve ileri teknolojiyle desteklenen akıllı ve güvenilir taşımacılık hizmetleri sunuyor, tam memnuniyetinizi garanti ediyoruz.",
+        "items": {
+          "team": {
+            "title": "Uzman Ekibimiz",
+            "text": "Transiso ekibi, her zaman en iyi hizmeti sunmaya ve müşteri memnuniyetini sağlamaya çalışan uzmanlardan oluşur."
+          },
+          "delivery": {
+            "title": "Hızlı ve Etkili Teslimat",
+            "text": "Gönderilerinizin güvenliğini ve hızını sağlamak için en son lojistik teknolojilerini kullanıyoruz."
+          },
+          "support": {
+            "title": "Üstün Müşteri Hizmeti",
+            "text": "Müşteriyi işimizin merkezine koyuyor, tüm sorularınıza hızlı yanıt ve sürekli destek sağlıyoruz."
+          }
+        }
+      },
+      "titre_map": "İstanbul'daki konumumuz",
+      "sous_titre_map": "Dilediğiniz zaman İstanbul ofisimizi ziyaret edebilirsiniz",
+      "card_service": {
+          "subheading": "Gönderileriniz için küresel uzmanlık",
+          "heading": "Tüm iş ihtiyaçlarınıza uygun entegre lojistik hizmetleri",
+          "description": "Transiso, profesyonel bir ekip ve küresel şube ağı desteğiyle, Türkiye'den güvenilir hava, deniz ve kara taşımacılığı hizmetleri sunarak hızlı uygulama ve doğru teslimat sağlar."
+        },
+      "card2": {
+        "air_shipping": "Hava Nakliyesi",
+        "sea_shipping": "Deniz Nakliyesi",
+        "land_shipping": "Kara Nakliyesi",
+        "partial_shipping": "Gümrük İşlemleri",
+        "description": {
+          "air_shipping": "Orta Doğu, Avrupa, Afrika ve Körfez’e güvenilir hava yolu ağı ile hızlı nakliye.",
+          "sea_shipping": "Türkiye’den Arap ülkelerindeki tüm limanlara tam konteyner (FCL) veya parçalı (LCL) nakliye. MSC, Maersk, CMA CGM gibi büyük denizcilik hatları ile işbirliği. Depolama, yükleme, takip ve hızlı gümrük işlemleri.",
+          "land_shipping": "Türkiye içinde kara nakliye hizmetleri.",
+          "partial_shipping": "Türk ve Arap gümrük yasalarında uzmanız. Gerekli tüm belgeleri hazırlıyor ve resmi işlemleri yürütüyoruz."
+        }
+      },
+      "sub_services": {
+        "subheading": "Türkiye içinde profesyonel ve özel nakliye hizmetleri sunuyoruz",
+        "heading": "Mevcut Alt Hizmetler",
+        "description": "Fareyle üzerine gelindiğinde gösterilen kısa açıklama",
+        "services": {
+          "2": "Oto Yedek Parçaları",
+          "6": "Tarım Makineleri",
+          "7": "Erkek Giyim",
+          "8": "Kadın Giyim",
+          "1": "Türkiye'den Mobilya ve Ev Nakliyesi",
+          "5": "Tıbbi Malzemeler",
+          "3": "Güzellik ve Bakım Ürünleri",
+          "4": "Konserve Gıda Ürünleri"
+        }
+      },
+        "section": {
+          "subheading": "Alt Hizmetler",
+          "subtitle": "Türkiye'de özel nakliye hizmetleri mi arıyorsunuz?",
+          "description": "Arap ülkeleri ve dünya genelinde lojistik sektöründe yıllarca çalıştıktan sonra, Transiso Türkiye'de kapsamlı hava ve deniz taşımacılığı hizmetleri sunmaya kendini adamıştır. Müşteri ihtiyaçlarını etkin ve profesyonel bir şekilde karşılamaya bağlıdır. Şirket, yüksek kaliteli çözümler ve mükemmel hizmet sunarak, Türkiye'deki güvenilir ve tercih edilen lojistik ortağı olarak konumunu güçlendirmeyi sürekli hedeflemektedir.",
+          "list": [
+            "Yüksek kaliteli hizmet",
+            "7/24 teknik destek",
+            "25 yılı aşkın deneyim",
+            "Müşteri memnuniyeti garantisi"
+          ],
+          "ratingText": "4.7 (1,567 müşteri yorumu)",
+          "experienceYears": "25",
+          "experienceLabel": "Yıl Deneyim",
+          "avatars": [
+            "avatar-1.jpg",
+            "avatar-2.jpg",
+            "avatar-3.jpg",
+            "avatar-7.jpg"
+          ]
+        },
+          "login": {
+            "title": "Giriş Yap",
+            "new": "Transiso'ya yeni misiniz?",
+            "createAccount": "Hesap Oluştur",
+            "emailLabel": "E-posta veya Kullanıcı Adı",
+            "emailPlaceholder": "owner@githubit.com",
+            "passwordLabel": "Şifre",
+            "passwordPlaceholder": "********",
+            "remember": "Beni hatırla",
+            "loginButton": "Giriş Yap",
+            "orLoginWith": "Veya ile giriş yap",
+            "facebook": "Facebook",
+            "google": "Google",
+            "twitter": "Twitter",
+            "forgot": "Unuttunuz mu",
+            "username": "kullanıcı adı",
+            "password": "şifre",
+            "or": "veya",
+            "imageAlt": "Giriş görseli",
+            "loading": "Yükleniyor...",
+            "error": "Giriş sırasında bir hata oluştu"
+          },
+          "signup": {
+          "title": "Hesap Oluştur",
+          "hasAccount": "Zaten bir hesabınız var mı?",
+          "loginLink": "Giriş Yap",
+          "fullName": "Tam Adı",
+          "email": "E-posta Adresi",
+          "phone": "Telefon Numarası",
+          "company": "Şirket Adı (İsteğe Bağlı)",
+          "password": "Şifre",
+          "address": "Adres",
+          "button": "Kayıt Ol",
+          "orWith": "Veya ile kayıt olun",
+          "facebook": "Facebook",
+          "google": "Google",
+          "twitter": "Twitter",
+          "imageAlt": "Kayıt Resmi"
+        },
+
+        "productList": {
+          "title": "Ürünleri Görüntüle",
+          "searchPlaceholder": "Bir ürün ara...",
+          "noResults": "Maalesef, aramanızla eşleşen ürün bulunamadı.",
+          "categories": [
+            "Hepsi",
+            "Dikiş Makineleri",
+            "Ahşap Paneller",
+            "Dış Cephe Boyaları",
+            "Plastik Konteynerler",
+            "Hava Soğutucuları",
+            "Araba Lastikleri",
+            "Galvanizli Çelik",
+            "İşlenmiş Ahşap",
+            "Ham Bitkisel Yağ",
+            "Paketleme Makineleri"
+          ]
+        },
+
+        "products": {
+          "1": {
+            "title": "Speedy Bandoulière Çanta",
+            "description": "Ünlü Monogram kanvasından üretilmiştir",
+            "category": "Endüstriyel Ekipman"
+          },
+          "2": {
+            "title": "Araba Lastikleri",
+            "description": "Tüm arabalar için dayanıklı, yüksek performanslı lastikler.",
+            "category": "Araba Lastikleri ve Yedek Parçaları",
+            "tag": "Stokta"
+          },
+          "3": {
+            "title": "Dış Cephe Boyaları",
+            "description": "Hava koşullarına dayanıklı yüksek kaliteli boyalar.",
+            "category": "Boya ve Son Kat Malzemeleri"
+          },
+          "4": {
+            "title": "Plastik Konteynerler",
+            "description": "Ürün depolamaya yönelik çok amaçlı konteynerler.",
+            "category": "Konteyner ve Depolama",
+            "tag": "%10 İndirim"
+          },
+          "5": {
+            "title": "Hava Soğutucuları",
+            "description": "Ofisler için uygun, enerji verimli hava soğutucular.",
+            "category": "Soğutma ve Klima Cihazları"
+          },
+          "6": {
+            "title": "Ahşap Paneller",
+            "description": "Sağlam, neme dayanıklı ahşap paneller.",
+            "category": "Yapı Malzemeleri",
+            "tag": "Stokta"
+          },
+          "7": {
+            "title": "Galvanizli Çelik",
+            "description": "Endüstriyel projeler için yüksek kaliteli galvanizli çelik.",
+            "category": "Yapı Malzemeleri",
+            "tag": "Stokta"
+          },
+          "8": {
+            "title": "İşlenmiş Ahşap",
+            "description": "Mobilya ve inşaat için dayanıklı, neme dayanıklı ahşap.",
+            "category": "Yapı Malzemeleri"
+          },
+          "9": {
+            "title": "Ham Bitkisel Yağ",
+            "description": "Gıda kullanımına uygun yüksek saflıkta bitkisel yağ.",
+            "category": "Gıda Ürünleri",
+            "tag": "%8 İndirim"
+          },
+          "10": {
+            "title": "Dolum ve Paketleme Makineleri",
+            "description": "Ürünleri verimli şekilde paketlemek için modern ekipman.",
+            "category": "Ambalaj ve Dolum Makineleri"
+          }
+        },
+        "breadcrumbs": {
+          "home": "Ana Sayfa",
+          "productList": "Ürün Listesi",
+          "category": "Plastik Kaplar"
+        },
+        "discount": "%20 İndirim",
+        "oldPrice": "$ 500.00",
+        "productTitle": "Plastik Kaplar",
+        "price": "$ 450.00",
+        "shortDescriptionTitle": "Kısa Açıklama",
+        "shortDescriptionText": "Fizyoterapist olarak, yumuşak IGLU küplerinden çok etkilendim. Sertlik ve yumuşaklık arasındaki mükemmel denge, fiziksel aktiviteler için ideal bir platform sağlar. Kaymayı önleyen tabanlar, egzersiz sırasında çocuklar için güvenli bir ortam sağlar ve parlak renkler oturumlara görsel olarak uyarıcı bir unsur katar.",
+        "stockAvailable": "Stokta mevcut - 12 ürün",
+        "ratingCount": "(175 değerlendirme)",
+        "freshness": "Yiyecekleri taze ve temiz tutar",
+        "orderNow": "Şimdi Sipariş Ver",
+        "addToCart": "Sepete Ekle",
+        "contacter": {
+          "form": {
+            "title": "Yazmaktan çekinmeyin",
+            "subtitle": "Lojistik, malların, hizmetlerin ve bilgilerin etkin planlanması, yönetimi ve koordinasyonunu içerir.",
+            "placeholders": {
+              "name": "İsim",
+              "email": "E-posta",
+              "phone": "Telefon",
+              "subject": "Konu",
+              "message": "Mesaj"
+            },
+            "sendButton": "Mesaj Gönder",
+            "successMessage": "Mesajınız başarıyla gönderildi!",
+            "errorMessage": "Mesaj gönderilirken bir hata oluştu.",
+            "sending": "Gönderiliyor..."
+          },
+          "contactInfo": {
+            "title": "Bize Ulaşın",
+            "subtitle": "Her türlü sorunuzda size yardımcı olmak için buradayız. Bizimle iletişime geçmekten çekinmeyin.",
+            "phoneQuestion": "Herhangi bir sorunuz mu var?",
+            "emailUs": "Bize e-posta gönderin",
+            "headquarters": "Merkez",
+            "phoneNumber": "5377671027 (90+)",
+            "emailAddress": "info@transisologistic.com",
+            "address": "İstanbul, Türkiye Cadde 1582",
+            "omanOffice": "Oman Office",
+            "omanAddress": "Muscat, Oman",
+            "yemenOffice": "Yemen Office",
+            "yemenAddress": "Sana'a, Yemen",
+            "locationsTitle": "Konumlarımız"
+
+          },
+          "direction": "ltr"
+        },
+          "blog": {
+            "id": 1,
+            "lang": "tr",
+            "title": "Lojistik Bilgileri",
+            "sous_titre": "Türkiye'den nakliye ile ilgili hizmetler ve bilgiler",
+            "search": "Blogda ara...",
+            "readMore": "Devamını oku",
+            "noBlogs": "Mevcut makale yok.",
+            "noComments": "0 yorum",
+            "prev": "Önceki",
+            "next": "Sonraki",
+            "page": "Sayfa",
+            "of": "arasında",
+            "return":"Listeye geri dön"
+          },
+          "commencer":"! Hemen bilgi alın",
+          "Dasho":"Gösterge Panelim",
+          "rate_client":"Müşteri Puanı",
+          "button_now": "Şimdi Keşfedin",
+          "rating_client":"Müşteri Görüşleri",
+          "vrai_review": "Gerçek müşteri yorumları",
+          "logout":"çıkış yap",
+          "myDashboard":"Gösterge Paneli" ,
+          "service": {
+            "not_found": "Hizmet bulunamadı",
+            "error_unknown": "Bilinmeyen hata",
+            "back_to_services": "Hizmetlere geri dön",
+            "main_services": "Ana Hizmetler",
+            "request_help_title": "Yardım Talebi",
+            "request_help_description": "Yardım talep etmek için lütfen 'Şimdi Sor' düğmesine tıklayın ve gerekli bilgileri doldurun.",
+            "ask_now": "Şimdi Sor",
+            "tracking_title": "Basit ve Etkili Takip",
+            "tracking_description": "Kolay gönderi yönetimi sağlamak için gelişmiş takip sistemleri, gerçek zamanlı analizler ve uzman lojistikçiler.",
+            "support_title": "Hızlı Destek",
+            "support_description": "Depo koordinasyonu, son teslimat ve etkili envanter kontrolünde uzmanız.",
+            "titles": {
+              "Plane": "Hava Nakliyesi",
+              "Train": "Tren Nakliyesi",
+              "Sea": "Deniz Nakliyesi",
+              "Truck": "Kamyon Nakliyesi"
+            }
+          },
+          "faq": {
+  "questions": [
+    "Transisso hangi nakliye hizmetlerini sunuyor?",
+    "Gönderilerimi gerçek zamanlı olarak takip edebilir miyim?",
+    "Transisso, gönderilerin güvenliğini nasıl garanti ediyor?",
+    "Hizmetleriniz hangi bölgeleri kapsıyor?",
+    "Bir sorun veya sorum olduğunda destek ekibiyle nasıl iletişim kurabilirim?"
+  ],
+  "answers": [
+    "Transisso, teslim alma, belge hazırlama, gümrükleme ve son teslimat dahil olmak üzere entegre nakliye hizmetleri sunar. Hızlı ve güvenli gönderimler için çeşitli taşıma firmalarıyla koordinasyon sağlıyoruz.",
+    "Evet, Transisso gelişmiş bir takip sistemi sunar; gönderinizin durumunu gönderimden teslimata kadar anlık olarak takip edebilir ve herhangi bir güncelleme için anında bildirim alabilirsiniz.",
+    "Profesyonel ambalajlama, modern izleme teknolojileri ve kapsamlı sigorta seçenekleri kullanarak gönderilerinizi her türlü hasar veya kayıptan koruyoruz.",
+    "Transisso hizmetleri, güçlü uluslararası ortak ağımız sayesinde dünyanın çoğu ülkesini kapsar. Doğrudan teslimat veya onaylı lojistik merkezleri aracılığıyla esnek ve çeşitli çözümler sunarız.",
+    "Destek ekibimizle telefon, e-posta veya web sitemizdeki canlı sohbet üzerinden iletişime geçebilirsiniz. Sorunlarınıza hızlı ve etkili çözümler sunmak için sürekli teknik destek ve danışmanlık sağlıyoruz."
+  ]
+}
+,
+          "Plane": {
+          "main_services": "Ana Hizmetler",
+          "request_help_title": "Yardım Talebi",
+          "request_help_description": "Yardım talebinde bulunmak için şimdi sor butonuna tıklayın ve gerekli bilgileri doldurun.",
+          "ask_now": "Şimdi Sor",
+          "title": "Transisso ile Gelişmiş Hava Kargo Hizmetleri",
+          "description1": "Türkiye'deki hava kargo sistemi lojistik alanında en gelişmiş ve etkili sistemlerden biridir ve hızlı, güvenli ithalat için ideal seçenekler sunar.",
+          "description2": "Transisso, işletmelere özel esnek hava kargo hizmetleri sunar: evrak hazırlığı, gümrükleme, sigorta, teslim alma ve varış noktasına ulaştırma hizmetleri dahil.",
+          "card1_title": "Entegre Kargo Çözümleri",
+          "card1_description": "Transisso olarak esnek ve güvenilir hava kargo hizmetleri sunuyoruz: alım, paketleme, evrak ve dünya çapında teslimat.",
+          "card2_title": "Güvenli Taşıma Garantisi",
+          "card2_description": "Transisso, yüklerinizi kaynağından hedef noktaya kadar güvenle ulaştırmak için sıkı izleme sistemleri ve kapsamlı sigorta sunar."
+          },
+          "Sea": {
+            "main_services": "Ana Hizmetler",
+            "request_help_title": "Yardım Talebi",
+            "request_help_description": "Yardım istemek için lütfen Şimdi Sor’a tıklayın ve gerekli bilgileri doldurun.",
+            "ask_now": "Şimdi Sor",
+            "title": "Transiso ile Deniz Taşımacılığı Hizmetleri",
+            "description1": "Deniz taşımacılığı, geniş çaplı ve küresel ölçekte yük taşımacılığı için en verimli ve ekonomik çözümlerden biridir...",
+            "description2": "Tam Konteyner Yükü (FCL) veya Daha Az Konteyner Yükü (LCL) ihtiyacınız varsa...",
+            "description3": "Ayrıca, taşıma sırasında potansiyel risklere karşı yüklerinizi korumak için esnek sigorta seçenekleri sunuyoruz...",
+            "card1_title": "İhtiyaçlarınıza Uygun Kapsamlı Hizmetler",
+            "card1_description": "Ticari ve bireysel tüm gönderi türlerine hizmet veriyoruz, gönderi türüne, zamanlamaya ve bütçeye göre özel çözümler sunuyoruz.",
+            "card2_title": "Yüksek Güvenlik ve Güvenilirlik",
+            "card2_description": "Transiso olarak, sevkiyatlarla ilgili küresel standartları izliyoruz ve deniz taşımacılığı sırasında olası risklere karşı tam sigorta kapsamı sağlıyoruz."
+          },
+    
+          "Train": {
+  "main_services": "Gümrükleme",
+  "request_help_title": "Yardım Talebi",
+  "request_help_description": "Yardım talebinde bulunmak için şimdi sor butonuna tıklayın ve gerekli bilgileri doldurun.",
+  "ask_now": "Şimdi Sor",
+  "title": "Transisso ile Gümrükleme Uzmanları",
+  "description1": "Uluslararası ticaret ve nakliyatta, gümrükleme işlemleri malların gümrük kapılarından sorunsuz ve gecikmesiz geçmesi için en kritik adımlardan biridir. Transisso olarak, Türkiye ve Arap ülkeleri gümrük mevzuatında derin ve uzman bir bilgiye sahibiz ve en yüksek profesyonellik ve titizlikle kapsamlı gümrükleme hizmetleri sunuyoruz.",
+  "description2": "Menşe belgeleri, ticari faturalar, paketleme listeleri, ithalat ve ihracat izinleri, ürün tipine bağlı olarak sağlık veya teknik sertifikalar dahil olmak üzere gerekli tüm belgeleri hazırlıyoruz. Uzman ekibimiz, ilgili resmi kurumlarla hızlı ve şeffaf şekilde iletişim kurarak müşterilerimizin zaman ve emek tasarrufu yapmasını sağlıyor ve gönderilerinin sorunsuz geçişini garanti ediyor.",
+  "description3": "Gümrükleme hizmetlerimiz; deniz, hava, kara ve tren taşımacılığında her boyutta ve türde yüklerle esnek bir şekilde çalışabilme yeteneğine sahiptir. Gümrük işlemlerindeki karmaşıklıkların farkındayız ve yasal danışmanlık, belge kontrolü ve gönderinin her aşamasının takibi gibi entegre çözümler sunuyoruz.",
+  "description4": "Transisso, yerel ve uluslararası mevzuat değişikliklerini sürekli takip eden uzman gümrük danışmanlarından oluşan bir ekibe sahiptir. Müşterilerimize en iyi rehberliği ve yönlendirmeyi sunarken, şeffaf raporlamalarla güven inşa ediyor ve işlerini büyütmek için önceden plan yapmalarına yardımcı oluyoruz.",
+  "description5": "Ayrıca, Türkiye ile Arap ülkeleri ve diğer ülkeler arasındaki ticaret anlaşmaları ve gümrük avantajları kullanılarak gümrük vergilerini ve harçlarını azaltmak için en iyi uygulamalar konusunda danışmanlık veriyoruz. Karmaşık prosedürleri basitleştirip müşterilerimizin işlerine odaklanmalarını sağlıyoruz.",
+  "description6": "Acil durumlarda ve gümrükleme ile ilgili her türlü soruda 7/24 destek sağlıyoruz. Müşterilerimiz doğrudan bizimle iletişime geçerek anında danışmanlık alabilir, gönderi durumlarını takip edebilir veya geri bildirimde bulunabilirler.",
+  "card1_title": "Kapsamlı Belge Hazırlığı",
+  "card1_description": "Faturalar, menşe belgeleri ve paketleme listeleri dahil tüm resmi belgeleri titizlikle ve gümrük gereksinimlerine tam uyumlu olarak hazırlıyoruz, böylece hızlı ve etkin gümrük işlemleri sağlanıyor.",
+  "card2_title": "Geniş Gümrük Mevzuatı Bilgisi",
+  "card2_description": "Ekibimiz, Türk ve Arap gümrük mevzuatında uzman hukukçulardan oluşmaktadır, tüm gümrük durumlarında müşterilerimizin çıkarlarını koruyan en iyi yasal çözümleri sunar.",
+  "card3_title": "Resmi Kurumlarla Doğrudan İletişim",
+  "card3_description": "Gümrük daireleri ve ilgili devlet kurumlarıyla doğrudan koordinasyon sağlayarak işlemlerin hızlanmasını ve tüm standartlara uygunluğun garanti edilmesini sağlıyoruz.",
+  "card4_title": "Sürekli Teknik ve Danışmanlık Desteği",
+  "card4_description": "Gümrükleme süreçlerine ilişkin tüm ihtiyaçları karşılamak ve olası acil durumlara hızlı müdahale etmek için 7/24 destek ve danışmanlık hizmeti sunuyoruz."
+}
+,
+          "truck": {
+            "main_services": "Ana Hizmetler",
+            "request_help_title": "Yardım Talebi",
+            "request_help_description": "Yardım talebinde bulunmak için lütfen Şimdi Sor'a tıklayın ve gerekli bilgileri doldurun.",
+            "ask_now": "Şimdi Sor",
+            "title": "Transiso ile Kamyon Nakliye Hizmetleri",
+            "description1": "Kamyon taşımacılığı, Türkiye ve çevre ülkelerdeki lojistik taşımacılığın en önemli yöntemlerinden biridir. Yüksek esnekliği ve ara istasyonlara veya ek taşıma modlarına ihtiyaç duymadan doğrudan hedeflere ulaşabilme imkanı nedeniyle tercih edilir. Karayolları üzerinden hızlı ve etkili hareket kabiliyeti, müşterilere hem kentsel hem kırsal bölgelere hızlı teslimat ve lojistik maliyetlerin azaltılması konusunda büyük avantaj sağlar.",
+            "description2": "Transiso, modern ve en son güvenlik teknolojileriyle donatılmış geniş bir kamyon filosuna sahip, profesyonel ve kapsamlı kamyon nakliye hizmetleri sunmaktadır. Kapalı, soğutuculu ve düz yataklı kamyonlar dahil olmak üzere her türlü kuru mal, bozulabilir ürün ve ağır veya hacimli yükler için uygun çözümlerimiz vardır. Taşımacılık süresince malların kalitesini ve güvenliğini korumaya önem veriyoruz; bu nedenle tüm araçlarımızın düzenli bakım ve periyodik kontrollerini en yüksek standartlarda yapıyoruz.",
+            "description3": "Hizmetlerimiz Türkiye'nin tüm illeri içinde ve Irak, Suriye, Gürcistan, Bulgaristan gibi komşu ülkelere uluslararası taşımacılığı kapsamaktadır. Her müşterimizin ihtiyaçlarına ve yük türüne uygun özelleştirilmiş çözümler sunuyoruz. İleri düzey gerçek zamanlı kargo takip sistemi ile müşterilerimize yüklerinin durumunu sürekli izleme ve zamanında teslimat garantisi sağlıyoruz.",
+            "description4": "Nakliyeye ek olarak, Transiso gerekli tüm belgelerin hazırlanması ve gümrük işlemlerinin tamamlanması konusunda kapsamlı hizmetler sunmakta, resmi makamlarla koordinasyon sağlayarak işlemlerin gecikmeden yapılmasını temin etmektedir. Ayrıca, taşımacılık sırasında olası kayıp veya hasarlara karşı kapsamlı sigorta teminatı sağlamaktayız.",
+            "description5": "Uzman sürücülerimiz ve lojistik destek personelimizle yüksek kaliteli hizmet vermeye, teslimat sürelerine ve güvenlik gereksinimlerine tam uyum sağlamaya büyük önem veriyoruz. Sürekli olarak en son teknolojiler ve modern yönetim sistemleri kullanarak operasyonlarımızı geliştiriyor ve müşterilerimize en iyi deneyimi sunmayı hedefliyoruz.",
+            "description6": "Yükleriniz büyük hacimli, özel ilgi gerektiren hassas veya acil teslimat gerektiren hızlı ve esnek çözümler gerektirse de, Transiso tüm lojistik ihtiyaçlarınızı etkili ve ekonomik şekilde karşılayan en iyi çözümleri sunar. Kamyon taşımacılığında Transiso'yu tercih edin, yüksek kaliteli hizmet, sürekli destek ve rekabetçi fiyatların keyfini çıkarın.",
+            "card1_title": "Teslimatta Esneklik ve Hız",
+            "card1_description": "Şehir içi ve dışı yükleme, boşaltma ve doğrudan teslimat hizmetlerini içeren esnek kamyon taşımacılığı çözümleri sunuyoruz ve zaman çizelgelerine tam bağlıyız.",
+            "card2_title": "Güvenlik ve Kesin Takip",
+            "card2_description": "Gelişmiş takip sistemlerine dayanıyor ve yüklerin taşımacılık süresi boyunca korunması ve konumunun hassas takibi için tam sigorta teminatı sağlıyoruz."
+          }
+          ,"footer":{
+            "company": "Şirket",
+            "about": "Hakkımızda",
+            "services": "Hizmetlerimiz",
+            "blog": "Blog",
+          
+            "help": "Yardım",
+            "inquiry": "Çevrimiçi Sorgu",
+            "shipping": "Kargo & İade",
+            "tracking": "Sipariş Takibi",
+          
+            "products": "Ürün Listemiz",
+            "cosmetics": "Kozmetik Ürünler",
+            "kitchenware": "Mutfak Gereçleri",
+            "raw_materials": "Hammadde",
+            "building_materials": "Yapı Malzemeleri",
+            "furniture": "Mobilya ve Dekorasyon",
+          
+            "rights": "Tüm hakları saklıdır",
+            "privacy": "Gizlilik Politikası",
+            "terms": "Şartlar ve Koşullar"
+          },
+          "checkout": {
+            "orderDetails": "Sipariş Detayları",
+            "customer": "Müşteri",
+            "customerPlaceholder": "Müşteri adını girin",
+            "address": "Adres",
+            "addressPlaceholder": "Detaylı adresi girin",
+            "country": "Ülke",
+            "countryPlaceholder": "Ülke adı",
+            "phone": "Telefon",
+            "phonePlaceholder": "Telefon numarası",
+            "email": "E-posta",
+            "emailPlaceholder": "example@email.com",
+            "paymentMethod": "Ödeme Yöntemi",
+            "creditCard": "Kredi Kartı (Yakında)",
+            "paypal": "PayPal (Yakında)",
+            "cashOnDelivery": "Kapıda Ödeme",
+            "products": "Ürünler",
+            "submitOrder": "Siparişi Gönder",
+            "orderSuccess": "Siparişiniz için teşekkürler!",
+            "redirecting": "Kısa süre içinde ürünler sayfasına yönlendirileceksiniz...",
+            "noProductSelected": "Ürün seçilmedi.",
+            "productDetails": "🧾 Ürün Detayları",
+            "name": "İsim",
+            "price": "Fiyat",
+            "stock": "Stok",
+            "available": "Mevcut",
+            "unavailable": "Mevcut değil",
+            "loading": "Yükleniyor..."
+          },
+          "carousel": {
+            "title": "Haftanın Fırsatları",
+            "badge": "Teklif bitmeden acele et!",
+            "viewAll": "Tümünü gör"
+          },
+          "cart": {
+            "couponPlaceholder": "İndirim kodu",
+            "applyCoupon": "Kuponu uygula",
+            "total": "Toplam:",
+            "completeOrder": "Siparişi Tamamla",
+            "backToShop": "Alışverişe Geri Dön",
+            "productName": "Ürün Adı",
+              "productPrice": "Fiyat",
+              "quantity": "Adet",
+              "itemTotal": "Toplam",
+              "clearCart": "Sepeti Temizle",
+              "emptyCart": "Sepetiniz boş"
+          },
+          "map":{
+            "headerTitle": "Küresel Kapsama",
+            "headerText": "Türkiye'den Yemen, Suudi Arabistan, Birleşik Arap Emirlikleri, Katar ve Umman Sultanlığı'na güvenilir ve profesyonel kargo hizmetleri sunuyoruz.",
+            "regions": [
+              {
+                "title": "Yemen",
+                "description": "Türkiye’den Yemen’e kolay ve güvenli nakliye hizmetleri sunuyoruz.",
+                "icon": "/img/europe.svg"
+              },
+              {
+                "title": "Suudi Arabistan",
+                "description": "Suudi Arabistan’a hızlı ve güvenilir nakliye hizmetleri sağlıyoruz.",
+                "icon": "/img/gulfregion.svg"
+              },
+              {
+                "title": "Birleşik Arap Emirlikleri",
+                "description": "Türkiye’den BAE’ye kapsamlı nakliye hizmetleri ve sürekli takip.",
+                "icon": "/img/middle-east.svg"
+              },
+              {
+                "title": "Katar",
+                "description": "Deniz ve hava yoluyla Katar’a profesyonel ve hızlı nakliye sağlıyoruz.",
+                "icon": "/img/america.svg"
+              },
+              {
+                "title": "Umman Sultanlığı",
+                "description": "Umman’a tüm mevcut yöntemlerle güvenli ve hızlı nakliye.",
+                "icon": "/img/america.svg"
+              }
+            ]
+          },
+          "FAQ":"Sıkça Sorulan Sorular",
+          "howItWorks": {
+            "title": "Nasıl Çalışıyoruz? İşte detaylı adımlarımız",
+            "steps": [
+              "Siparişinizi veya fiyat teklifinizi alın",
+              "Detayları ve belgeleri onaylayın",
+              "Gönderiyi hazırlayın ve yükleyin",
+              "Gümrük işlemleri ve nakliye",
+              "Varışa kadar canlı takip",
+              "Teslimatı onaylayın"
+            ],
+            "direction": "ltr"
+          },
+          "meta": {
+    "title": "Transiso Logistic Hakkında - Nakliye ve Lojistik Hizmetleri",
+    "description": "Deniz, hava ve kara taşımacılığı hizmetlerini yüksek kalite ve rekabetçi fiyatlarla sunuyoruz. Vizyonumuz, uluslararası taşımacılıkta ilk tercih olmaktır."
+  },
+  "mission": {
+    "title": "Misyonumuz",
+    "text": "Pazar ihtiyaçlarına uygun, akıllı ve hızlı lojistik hizmetler sunarak müşterilerimizin işlerini desteklemek."
+  },
+  "vision": {
+    "title": "Vizyonumuz",
+    "text": "Kalite, profesyonellik ve sürekli gelişim ile Türkiye ve Arap bölgesinde uluslararası taşımacılıkta lider olmak."
+  },
+  "values": {
+    "title": "Değerlerimiz",
+    "items": [
+      "Güvenilirlik: Gönderilerinizi zamanında ve doğru yere teslim ederiz.",
+      "Şeffaflık: Başlangıçtan teslimata kadar tüm detayları açıklarız.",
+      "Profesyonellik: Uzman ekibimiz süreci titizlikle takip eder.",
+      "Sürekli Destek: Teslimattan sonra bile yanınızdayız."
+    ]
+  },
+  "why": {
+    "title": "Neden Transiso Logistic?",
+    "items": [
+      "Türkiye içinde ve dışında geniş iş ortağı ağı",
+      "Gümrük ve dış ticaret mevzuatında derin uzmanlık",
+      "Kargoya ve hedefe göre özelleştirilmiş hizmetler",
+      "Canlı gönderi takibi",
+      "Profesyonel ambalajlama ve isteğe bağlı sigorta",
+      "Yolcu hizmeti (yakında)"
+    ]
+  },
+  "keywords": [
+    "Türkiye'de nakliye şirketi",
+    "Türkiye'den lojistik hizmetleri",
+    "İhracat şirketi",
+    "Uluslararası nakliyat",
+    "Türkiye'den ithalat",
+    "Gümrükleme",
+    "Türkiye'den Yemen'e kargo",
+    "İstanbul'daki en iyi nakliye firması"
+  ],
+  "addressTitle": "Adres",
+  "address": "İstanbul, Türkiye - Maskat, Umman - Sana, Yemen",
+  "phoneTitle": "Telefon",
+  "phone": "+90 537 767 1027",
+  "emailTitle": "E-posta",
+  "detaille_service": {
+    "mainTitle": "Türk Ürünleri İçin Acentelik Hizmeti",
+    "subTitle": "Sizin gibi biz de mükemmelliği arıyoruz – Güvenilir Türk ürünleri için özel distribütörlük almanızı kolaylaştırıyoruz.",
+    "question": "Ülkenizde bir Türk markasını temsil etmek ister misiniz?",
+    "description": "Transisso Lojistik olarak, çeşitli sektörlerde (sanayi – gıda – tüketici – kozmetik vb.) yüksek kaliteli Türk ürünleri için özel acentelik veya yetkili distribütörlük almanızı kolaylaştıran profesyonel bir hizmet sunuyoruz.",
+    "introList": "Sizi Türk üreticileriyle buluşturuyor ve şu konularda yardımcı oluyoruz:",
+    "list": [
+      "Güvenilir fabrikalar ve markaların önerilmesi.",
+      "Ticari şartların ve özel hakların müzakere edilmesi.",
+      "Sözleşme çevirileri ve taraflar arası iletişim kolaylığı.",
+      "Yasal belgelendirme süreci ve gerekirse kayıt işlemlerinin takibi."
+    ]
+  },
+  "tracking_d":"takibi",
+  "contactCard": {
+    "supportImageAlt": "Destek",
+    "helpText": "Herhangi bir yardıma ihtiyacınız varsa,\nbizimle iletişime geçin",
+    "callNow": "Hemen ara"
+  },
+  "demandeprice":"Teklif isteyin",
+  "form": {
+    "description": "Gönderinizin ayrıntılarını bize bildirin, 24 saat içinde size özel bir teklif gönderelim.",
+    "fullName": "Tam Adı",
+    "email": "E-posta",
+    "phone": "Telefon Numarası",
+    "countryCode": "-- Ülke Seçin --",
+    "destination": "Varış Noktası",
+    "destinationPlaceholder": "-- Varış Noktası Seçin --",
+    "shippingType": "Kargo Türü",
+    "descriptionLabel": "Gönderi Açıklaması",
+    "weight": "Tahmini Ağırlık/Hacim",
+    "extraServices": "Ek hizmetlere ihtiyacınız var mı?",
+    "submit": "Gönder",
+    "success": "Form başarıyla gönderildi!"
+  },
+  "shipping": {
+    "air": "Havayolu",
+    "ocean": "Denizyolu",
+    "land": "Karayolu",
+    "partial": "Parça Yük"
+  },
+  "services12": {
+    "packaging": "Paketleme",
+    "clearance": "Gümrükleme",
+    "tracking": "Takip",
+    "storage": "Depolama"
+  },
+  "dest": {
+    "saudi": "Suudi Arabistan",
+    "uae": "BAE",
+    "qatar": "Katar",
+    "bahrain": "Bahreyn",
+    "kuwait": "Kuveyt",
+    "oman": "Umman",
+    "yemen": "Yemen",
+    "lebanon": "Lübnan",
+    "jordan": "Ürdün"
+  } ,
+  "demande_prix":"Fiyat teklifi iste",
+  "step1": "Birinci Adım",
+  "step2": "İkinci Adım",
+  "step3": "Üçüncü Adım",
+  "step4": "Dördüncü Adım",
+  "previous": "Önceki",
+  "next": "Sonraki",
+  "submit": "Gönder",
+  "sending": "Gönderiliyor...",
+  "form2": {
+    "success": "Talebiniz başarıyla gönderildi!",
+    "mail_error": "E-posta gönderme hatası",
+    "shipping_from": "Nereden gönderiyorsunuz?",
+    "shipping_placeholder": "Gönderim yerini girin",
+    "shipping_to": "Nereye gönderiyorsunuz?"
+  },
+  "email2": {
+    "subject": "Talebiniz için teşekkür ederiz",
+    "body": "Merhaba {{name}},\n\nGönderi talebinizi bize ilettiğiniz için teşekkür ederiz. Talebinizi inceleyip en kısa sürede sizinle iletişime geçeceğiz.\n\nSaygılarımızla,\nDestek Ekibi."
+  },
+  "form4": {
+    "name": "İsim *",
+    "name_placeholder": "İsminizi girin",
+    "email": "E-posta *",
+    "email_placeholder": "E-postanızı girin",
+    "phone": "Telefon *",
+    "phone_placeholder": "Telefon numaranızı girin",
+    "shipping_date": "Gönderi Tarihi *",
+    "weight": "Ağırlık (kg)",
+    "weight_placeholder": "örn., 10",
+    "volume": "Hacim (m³)",
+    "volume_placeholder": "örn., 2.5",
+    "cargo_details": "Kargo Detayları",
+    "cargo_placeholder": "Kargo hakkında detayları girin",
+    "notes": "Ek Notlar",
+    "notes_placeholder": "Herhangi ek notları girin",
+    "file_upload": "Dosya Yükle (isteğe bağlı)"
+  },
+  "main_services": "Ana Hizmetler",
+  "list_icon_alt": "Liste simgesi",
+  "shipping_instructions": "Bir dakika ayırın ve nakliye fiyatlarını kolayca almak için adımları izleyin, en kısa sürede size geri dönüş yapılacaktır.",
+  "step11": [
+    { "id": 1, "name": "Özelleştirilmiş Tedarik Zinciri Çözümleri" },
+    { "id": 2, "name": "Gönderilerin Paketlenmesi ve Güvenliği" },
+    { "id": 3, "name": "İthalat ve İhracat Yönetimi" },
+    { "id": 4, "name": "Gümrükleme" },
+    { "id": 5, "name": "Hızlı Hava Kargo" },
+    { "id": 6, "name": "Uluslararası ve Yurtiçi Karayolu Nakliyesi" },
+    { "id": 7, "name": "Deniz Nakliyesi (Parçalı ve Tam – LCL / FCL)" }
+  ]
+
+
+  }
+  

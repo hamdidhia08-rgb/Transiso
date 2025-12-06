@@ -1,0 +1,446 @@
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('/Font/NotoKufiArabic-VariableFont_wght.ttf') format('woff2');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+  }
+.Paper{
+    width: 100%;
+    height: auto;
+    padding-inline:6%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding-top:50px;
+    padding-bottom: 30px;
+    position: relative;
+    direction: ltr !important;
+}
+.Paper_g{
+    width: 42%;
+    height: auto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    top: 0px;
+}
+.Paper_d{
+    width: 100%;
+    height: auto;
+    direction: rtl;
+}
+/* On conserve vos règles existantes */
+.partie1,
+.partie2{
+    margin-top: 40px;
+    height: 80vh !important;
+    width: 100% !important;
+    background-color: #103548 !important;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #e4e4e4;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
+    background-image: url('/img/Background/back.png'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    /* Ajouté pour que le pseudo-élément se positionne correctement */
+    position: relative;
+    overflow: hidden;        
+    z-index: 0;  /* évite que la partie déborde si besoin */
+}
+
+.bottom_image_container {
+  position: absolute;
+  bottom: -10px;  /* distance du bas */
+  left: 50%;     /* centre horizontal */
+  transform: translateX(-50%);
+  pointer-events: none; /* si tu veux que ça ne bloque pas les clics */
+  z-index: 5; /* au-dessus du fond mais en dessous des contenus si besoin */
+}
+/* Masque rouge dans le coin haut-droit */
+.partie1::before,
+.partie2::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;               /* ajustez la taille du masque */
+    height: 100%;
+    pointer-events: none;     /* le masque ne bloque pas les clics */
+    z-index: -1; 
+    /* 1. Variante dégradé circulaire */
+    background: radial-gradient(circle at top right,
+                 rgba(255, 0, 0, 0.85) 0%,
+                 rgba(255, 0, 0, 0.25) 50%,
+                 rgba(255, 0, 0, 0) 80%);
+
+    /* 2. Si vous préférez un triangle net (dé-commentez ces trois lignes, et commentez le dégradé ci-dessus) */
+    /* background: #e60023;
+       clip-path: polygon(100% 0, 0 0, 100% 100%);
+       opacity: 0.8; */
+    
+    border-top-right-radius: 10px;   /* épouse le rayon du conteneur */
+}
+.titre_demande {
+  color: #fff;
+  font-weight: 700;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+  font-size: 30px;
+  margin-top: 5px;     /* réduit l'espace au-dessus */
+  margin-bottom: 5px;  /* réduit l'espace en-dessous */
+}
+
+.Description_demande {
+  color: #fff;
+  font-weight: 300;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+  font-size: 14px;
+  text-align: center;
+  direction: rtl;
+  margin-top: 5px;     /* réduit l'espace au-dessus */
+  margin-bottom: 5px;  /* réduit l'espace en-dessous */
+}
+
+.image_demande {
+  margin-bottom: 5px;  /* espace réduit sous l'image */
+}
+.button_demande {
+  margin-top: 10px; /* espace au-dessus du bouton */
+  width: 100%; /* optionnel, pour que le bouton prenne toute la largeur du conteneur */
+  display: flex;
+  justify-content: center; /* centre le bouton horizontalement */
+}
+.btn_arabic {
+  display: inline-flex;       /* pour aligner l’icône et le texte sur la même ligne */
+  align-items: center;
+  background-color: #e60023;
+  color: #fff;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+
+  padding: 10px 45px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 3px 4px rgba(230, 0, 35, 0.5);
+  transition: background-color 0.3s ease;
+  gap: 8px; /* espace entre l’icône et le texte */
+}
+
+.btn_arabic:hover {
+  background-color: #b3001a;
+}
+
+.btn_icon {
+  display: block;
+  width: 20px;
+  height: 20px;
+  color: #fff !important;
+  filter: brightness(0) saturate(100%) invert(100%);
+}
+
+.contenue{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+
+}
+.partie3{
+    width: 100% !important;
+    height: auto !important;
+    background-color: #F9F9F9 !important;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #e4e4e4;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
+}
+.Image{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+}
+.sectionHeading{
+    font-size: 24px;
+    color: #0C3645;
+    font-weight: 700;
+    font-family: "Noto Kufi Arabic", sans-serif;
+    margin-top: 60px;
+    margin-right: auto;
+  }
+ .sectionHeading2{
+  font-size: 24px;
+  color: #0C3645;
+  font-weight: 700;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  margin-right: auto;
+ }
+  .description{
+    font-size: 14px;
+    color: #444;
+    margin-top: 10px;
+    margin-right: auto;
+    line-height: 1.7;
+    font-family: "Noto Kufi Arabic", sans-serif;
+    margin-bottom: 20px;
+    padding-left: 30px;
+  }
+  .Card {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;         
+    padding: 20px 0;
+    border-width: 1px 0;                         /* haut & bas seulement       */
+  border-style: solid;                         /* requis avec border-image   */
+  border-image: repeating-linear-gradient(
+                 to right,
+                 #d7d7d7 0 4px,
+                 transparent 4px 8px)          /* motif 4/4 identique */
+                 2;     
+    gap: 40px;
+    margin-top: 50px;
+    direction: rtl;
+  }
+  
+  .sous_Card1 {
+    position: relative;            
+    flex: 1;
+    display: flex;
+    align-items: center;           
+    gap: 16px;
+  }
+  
+.sous_Card1:nth-child(2)::before {
+    content: '';
+    position: absolute;
+    inset-inline-start: -40px; 
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1px;
+    height: 80%;
+    background: repeating-linear-gradient(
+        to bottom,
+        #d7d7d7 0 4px,
+        transparent 4px 8px
+      );
+  }
+  
+  
+  .icon_card {
+    font-size: 36px;             
+    color: red;
+    flex-shrink: 0;
+  }
+  .imagec{
+    border-radius: 8px;
+    z-index: 1000000;
+  }
+  .texts_card {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .titre_card {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1b1b1b;
+    font-family: "Noto Kufi Arabic", sans-serif;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .desc_card {
+    font-size: 14px;
+    color: #444;
+    line-height: 1.6;
+    font-family: "Noto Kufi Arabic", sans-serif;
+  }
+  .titleUnderline {
+    width: 100px;
+    height: 3px;
+    background: #d32f2f;
+    border-radius: 2px;
+    transform: skewX(-20deg);
+    margin-top: 8px;
+  }
+  .Arabic2{
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    direction: rtl;
+    font-size: 20px !important;
+    color: #0C3645 !important;
+  }
+  /* ==== Petit PC & écrans entre 992px et 1200px ==== */
+@media (max-width: 1200px) and (min-width: 992px) {
+  .Paper {
+    padding-inline: 4%;
+  }
+
+  .Paper_g {
+    width: 45%;
+  }
+
+  .Paper_d {
+    width: 55%;
+    padding-left: 15px;
+  }
+
+  .Card {
+    gap: 30px;
+  }
+}
+
+/* ==== Tablettes et petits écrans (768px à 991px) ==== */
+@media (max-width: 991px) and (min-width: 768px) {
+  .Paper {
+    flex-direction: column;
+    padding-inline: 5%;
+  }
+
+  .Paper_g,
+  .Paper_d {
+    width: 100% !important;
+  }
+
+  .Paper_g {
+    margin-bottom: 40px;
+  }
+  
+  .partie1,
+  .partie3 {
+    height: auto !important;
+  }
+
+  .Card {
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .sous_Card1:nth-child(2)::before {
+    display: none;
+  }
+
+  .bottom_image_container {
+    position: relative;
+    bottom: auto;
+    left: auto;
+    transform: none;
+    margin-top: 20px;
+    text-align: center;
+  }
+}
+
+/* ==== Mobiles (moins de 768px) ==== */
+@media (max-width: 767px) {
+  .Paper {
+    flex-direction: column;
+    padding-inline: 3%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+  .Paper_d {
+    order: 1;    /* droite en haut */
+    width: 100% !important;
+  }
+
+  .Paper_g {
+    order: 2;    /* gauche en bas */
+    width: 100% !important;
+  }
+  .Paper_g,
+  .Paper_d {
+    width: 100% !important;
+  }
+
+  .partie1,
+  .partie3 {
+    height: auto !important;
+    padding: 15px;
+  }
+
+  .contenue {
+    margin-top: 15px;
+  }
+
+  .titre_demande {
+    font-size: 24px;
+  }
+
+  .Description_demande {
+    font-size: 13px;
+    padding: 0 10px;
+  }
+
+  .button_demande {
+    width: 100%;
+  }
+
+  .btn_arabic {
+    padding: 10px 30px;
+    font-size: 14px;
+  }
+
+  .Card {
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px 0;
+  }
+
+  .sous_Card1 {
+    justify-content: flex-start;
+  }
+
+  .sous_Card1:nth-child(2)::before {
+    display: none;
+  }
+
+  .icon_card {
+    font-size: 28px;
+  }
+
+  .titre_card {
+    font-size: 16px;
+  }
+
+  .desc_card {
+    font-size: 13px;
+  }
+
+  .bottom_image_container {
+    position: relative;
+    bottom: auto;
+    left: auto;
+    transform: none;
+    margin-top: 15px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .imagec {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+  }
+
+  .description {
+    font-size: 13px;
+    padding-left: 15px;
+    margin-bottom: 15px;
+  }
+}

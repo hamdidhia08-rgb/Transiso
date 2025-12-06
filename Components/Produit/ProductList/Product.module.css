@@ -1,0 +1,562 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+@font-face {
+    font-family: 'Noto Kufi Arabic';
+    src: url('/Font/NotoKufiArabic-VariableFont_wght.ttf') format('woff2');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+  }
+.globale{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0  !important;
+}
+.rtl{
+  direction: rtl !important;
+}
+.ltr{
+  direction: ltr !important;
+}
+.partie1{
+    width: 100%;
+    width: 100%;
+}
+.partie2{
+  width: 100%;
+  height: 100%;
+  padding-right: 200px;
+  padding-top: 30px;
+}
+.partie3{
+  padding-left: 100px;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: left !important;
+}
+.partie{
+  padding-right: 100px;
+  display: flex !important;
+  justify-content: right !important;
+}
+.partie1{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    direction: rtl;
+    text-align: right !important;
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding-left: 14%;
+}
+.arabica{
+  font-family: "Noto Kufi Arabic", sans-serif !important;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 14px !important;
+}
+.titre{
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    line-height: 1.3;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 700 !important;
+    color: #141E46;
+    font-size: 25px;
+}
+.toggleButtonText{
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 14px;
+}
+.stock{
+    width: 100%;
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 14px;
+    display: flex !important;
+    align-items: center !important;
+}
+.price{
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    line-height: 1.3;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 700 !important;
+    color: #141E46;
+    font-size: 24px;
+}
+.price_avant{
+  font-family: "Noto Kufi Arabic", sans-serif !important;
+  line-height: 1.3;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 700 !important;
+  color: #E53935;
+  font-size: 24px;
+  text-decoration: line-through;
+  direction: rtl;
+}
+
+.price_avant2{
+display: none;
+}
+.text{
+    display: flex !important;
+    align-items: center !important;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+.text_head{
+  display: flex !important;
+  align-items: center !important;
+  margin-top: 20px;
+  justify-content: space-between;
+  padding-left: 5px;
+}
+.top_head{
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between;
+  padding-inline: 150px;
+  margin-bottom: 10px;
+  gap: 20px;
+}
+.solde{
+  min-width: 110px;
+  padding-inline: 10px;
+  width: auto;
+  border-radius: 15px;
+  background-color: #E53935;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  height: 23px;
+}
+.bigou{
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.text3{
+  display: flex !important;
+  align-items: center !important;
+  margin-top: 20px;
+  justify-content: space-between;
+  border: 1px solid;
+  border-color: #efefef;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-inline: 25px;
+  border-radius: 10px;
+}
+.Round2{
+  margin-inline:30px ;
+}
+.text4{
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center;
+  margin-top: 20px;
+  border: 1px solid;
+  border-color: #efefef;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-inline: 25px;
+}
+.Round{
+  border-radius: 50%;
+  height: 7px;
+  width: 7px;
+  background-color: #cccccc;
+}
+
+.text2{
+  display: flex !important;
+  margin-top: 20px;
+  border: 1px solid;
+  border-color: #efefef;
+  padding: 15px;
+  border-radius: 10px;
+  flex-direction: column;
+  font-weight: 500;
+}
+.Rating{
+  display: flex;
+  width: 100%;
+  justify-content: center !important;
+  align-items: center !important;
+  white-space: nowrap;
+}
+.couleur{
+    display: flex !important;
+    margin-top: 20px;
+    flex-direction: column;
+    border: 1px solid;
+    border-color: #efefef;
+    padding: 15px;
+    border-radius: 10px;
+}
+.partage{
+    display: flex !important;
+    width: 100%;
+    justify-content: center;
+}
+.social{
+    display: flex !important;
+    width: 150px;
+    justify-content: space-between;
+    align-items: center;
+}
+.couleur_txt{
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #384577;
+    
+}
+.p{
+    color: #384577;
+    margin-inline-start: 18px;
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+}
+.p2{
+    color: #1b1b1b;
+    margin-inline-start: 10px;
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.p1{
+    color: #1b1b1b;
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+}
+.Title_description{
+  font-family: "Noto Kufi Arabic", sans-serif !important;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 15px;
+}
+.description{
+    color: #3D3D3D;
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 22px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.text_social{
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    display: flex;
+    align-items: center !important;
+    justify-content: space-between;
+    width: 150px;
+    margin-inline-start: 50px
+}
+.hr{
+    margin-top: 20px;
+
+    background-color: rgb(217, 217, 217);
+    height: 1px;
+    border: none;
+}
+.hr2{
+    background-color: rgb(217, 217, 217);
+    height: 1px;
+    border: none;
+}
+@media (max-width: 767px) {
+    .globale {
+      flex-direction: column;
+      padding: 20px;
+    }
+    
+    .titre {
+      font-size: 24px;
+    }
+    
+    .price {
+      font-size: 20px;
+    }
+    
+    .text {
+      margin-top: 15px;
+    }
+    
+    .p {
+      margin-inline-start: 10px;
+      font-size: 13px;
+    }
+    .text_head{
+      padding-right: 0px;
+    }
+    .favorite{
+      width: 150px !important;
+    }
+    .top_head{
+      padding-inline: 30px !important;
+    }
+    .text_head{
+      zoom: 0.9;
+    }
+    .Rating,.Round2,.partage{
+      display: none !important;
+    }
+    .Breadcrumbs{
+      padding-inline: 2% !important;
+      zoom: 0.85 !important;
+      align-items: center;
+      justify-content: center;
+      padding-top: 50px !important;
+    }
+    .text_head{
+      margin-top: 30px;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .globale {
+      padding-inline: 5%;
+    }
+    
+    .partie {
+      width: 50%;
+    }
+    
+    .partie1 {
+      width: 45%;
+    }
+ 
+  }
+  
+  @media (min-width: 1024px) {
+    .globale {
+      padding-inline: 10%;
+    }
+  }
+  .loading_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-color: #ffffff; 
+  }
+  
+  .loading_gif {
+    width: auto; 
+    height: 400px;
+  }
+  .test{
+    height: 40vh;
+    width: 100%;
+  }
+  .desc_liste ul li{
+    list-style: none !important;
+    margin-top: 10px;
+  }
+  .detaille{
+    display: flex;
+    width: 200px;
+    margin-top: 10px;
+    color: #1f1e1e;
+  }
+  .Breadcrumbs{
+    padding-inline: 10%;
+    padding-top: 40px;
+    display: flex;
+  }
+  .Top_page2{
+    width: 100% !important;
+  }
+  .favorite{
+    background-color: #f4f4f4;
+    height: 30px;
+    width: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 14px;
+    box-shadow: 0 0.5px 0.5px rgba(0, 0, 0, 0.1);
+  }
+
+  .customswiperpagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Les bullets générées à l'intérieur du conteneur personnalisé */
+  .customswiperpagination :global(.swiper-pagination-bullet) {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: 2px solid white;
+    background: transparent;
+    margin: 0 6px;
+    opacity: 1;
+    transition: all 0.3s ease;
+  }
+  
+  .customswiperpagination :global(.swiper-pagination-bullet-active) {
+    background: white;
+    transform: scale(1.2);
+  }
+  .titre_hero{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 48px !important;
+  }
+  @media (max-width: 767px) {
+    .globale {
+      flex-direction: column;
+      padding: 15px;
+      gap: 30px;
+    }
+    .partie3,.partie{
+      width: 100%;
+      display: flex;
+      padding: 20px;
+      justify-content: center !important;
+      align-items: center !important;
+    }
+    .partie2,
+    .partie1 {
+      padding: 0 !important;
+      width: 100% !important;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .text_head {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      margin-top: 20px;
+      gap: 10px;
+      padding: 0 !important;
+    }
+  
+    .text2,
+    .text3,
+    .text4 {
+      width: 100%;
+      padding: 15px;
+      margin-top: 20px;
+    }
+  
+    .text {
+      width: 100%;
+      flex-direction: column !important;
+      gap: 15px;
+    }
+  
+    .Breadcrumbs {
+      padding: 0 10px;
+      text-align: center;
+      justify-content: center;
+      zoom: 0.85;
+    }
+  
+    .titre {
+      font-size: 22px;
+      text-align: center;
+    }
+  
+    .price,
+    .price_avant {
+      font-size: 20px;
+    }
+  
+    .solde {
+      font-size: 12px;
+      padding: 4px 12px;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+  
+    .Rating,
+    .partage,
+    .Round2 {
+      display: none !important;
+    }
+  
+    /* 🟩 Commander buttons area */
+    .text .Commander button {
+      width: 100% !important;
+      margin-bottom: 10px;
+    }
+  
+    .Commander {
+      width: 100%;
+      padding-block:30px ;
+    }.price{
+      font-family: "Noto Kufi Arabic", sans-serif !important;
+      line-height: 1.3;
+      font-optical-sizing: auto;
+      font-style: normal;
+      font-weight: 700 !important;
+      color: #141E46;
+      font-size: 24px;
+  }
+    .price_avant{
+      display: none !important;
+    }
+    .price_avant2{
+      font-family: "Noto Kufi Arabic", sans-serif !important;
+      line-height: 1.3;
+      font-optical-sizing: auto;
+      font-style: normal;
+      font-weight: 700 !important;
+      color: #E53935 !important;
+      font-size: 24px;
+      text-decoration: line-through;
+      direction: rtl;
+      display: flex;
+    }
+    .flous{
+      display: flex;
+      gap: 30px;
+      margin-top: 10px;
+    }
+    .titre{
+      line-height: 1.6;
+  }
+  }
+  

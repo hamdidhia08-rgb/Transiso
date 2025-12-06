@@ -1,0 +1,241 @@
+@font-face {
+    font-family: "Noto Kufi Arabic";
+    src: url("/Font/NotoKufiArabic-VariableFont_wght.ttf") format("woff2");
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  .stepperContainer {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    padding: 24px 16px;
+    border-radius: 12px;
+    font-family: "Noto Kufi Arabic", sans-serif;
+    margin-top: 24px;
+    /* plus besoin de direction ici : géré par le theme */
+  }
+  
+  .stepIcon {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: 2px solid; /* couleur injectée inline */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+  }
+  
+  .nextButton {
+    background-color: #DE1E27 !important;
+    color: #fff !important;
+    font-weight: 700 !important;
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    text-transform: none !important;
+    border-radius: 8px !important;
+    padding: 8px 20px !important;
+  }
+  
+  .nextButton:hover {
+    background-color: #a2171b !important;
+  }
+  
+  .backButton {
+    color: #DE1E27 !important;
+    border-color: #DE1E27 !important;
+    font-family: "Noto Kufi Arabic", sans-serif !important;
+    text-transform: none !important;
+    border-radius: 8px !important;
+    padding: 8px 20px !important;
+  }
+  
+  .backButton:hover {
+    background-color: rgba(222, 30, 39, 0.08) !important;
+  }
+  /* StepperArabic.module.css */
+.disabledIcon {
+    filter: grayscale(1);
+    /* remplace la teinte → gris #BDBDBD */
+    mix-blend-mode: luminosity;     /* garde la luminosité */
+    opacity: 0.5;                   /* ou ajuste comme tu veux */
+  }
+  .checkboxBox:hover {
+    background-color: #f9f9f9;
+    transition: background-color 0.3s;
+  }
+  /* ---------------------------------- */
+/*  INPUTS ÉTAPES 2 & 3               */
+/* ---------------------------------- */
+.basicInput {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  color: #0c3547;
+  outline: none;
+  background: #fff;
+  transition: border-color 0.2s;
+  margin-top: 20px;
+}
+.Arabic2 {
+  font-family: "Noto Kufi Arabic", sans-serif !important;
+  font-size: 18px !important;
+  font-weight: 500;
+  color: #0c3645 !important;
+}
+
+.basicInput:focus {
+  border-color: #de1e27;
+}
+
+/* ---------------------------------- */
+/*  FORMULAIRE ÉTAPE 5                */
+/* ---------------------------------- */
+.formRow {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.formColumn {
+  flex: 1 1 250px;
+}
+
+.formLabel {
+  display: block;
+  margin-bottom: 8px;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-weight: 600;
+  color: #0c3547;
+}
+.formLabel2{
+  display: block;
+  margin-bottom: 0px;
+  margin-right: 15px;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-weight: 600;
+  color: #0c3547;
+}
+.formInput,
+.formTextArea,
+.formFile {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-size: 15px;
+  color: #0c3547;
+  outline: none;
+  background: #fff;
+  transition: border-color 0.2s;
+}
+
+.formInput:focus,
+.formTextArea:focus,
+.formFile:focus {
+  border-color: #de1e27;
+}
+
+.formTextArea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+.dateCalendarRoot {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 16px;
+  background-color: #fff;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  width: 100%;
+}
+
+.dateCalendarSelectedDay {
+  background-color: #DE1E27 !important;
+  color: white !important;
+}
+
+.dateCalendarDay,
+.dateCalendarTypography {
+  font-family: "Noto Kufi Arabic", sans-serif !important;
+}
+@media (max-width: 768px) {
+  .basicInput {
+    margin-top: 12px;
+  }
+
+  .formRow {
+    margin-bottom: 16px;
+    gap: 8px;
+  }
+
+  .buttons {
+    margin-top: 16px;
+    gap: 8px;
+  }
+
+  .formTextArea {
+    min-height: 100px;
+  }
+
+  .formLabel,
+  .formLabel2 {
+    margin-bottom: 4px;
+  }
+  .buttons {
+    flex-direction: column;
+    flex-direction: column-reverse; 
+    gap: 12px;
+  }
+   .text_step{
+    display: none !important;
+   }
+  .nextButton,
+  .backButton {
+    width: 100%;
+    padding: 10px 0 !important;
+    font-size: 16px !important;
+  }
+}
+
+
+@media (max-width: 480px) {
+  .stepIcon {
+    width: 36px;
+    height: 36px;
+  }
+
+  .basicInput,
+  .formInput,
+  .formTextArea,
+  .formFile,
+  .dateCalendarRoot {
+    font-size: 13px;
+    padding: 8px;
+  }
+
+  .Arabic2 {
+    font-size: 15px !important;
+  }
+
+  .formLabel,
+  .formLabel2 {
+    font-size: 14px;
+  }
+
+  .stepperContainer {
+    padding: 12px 8px;
+  }
+}
